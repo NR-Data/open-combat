@@ -1,0 +1,22 @@
+{
+  "catalogue": {
+    "name": "Warband",
+    "id": "2563-82c8-3181-f6f8",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "300f-b280-6b62-4172",
+    "gameSystemRevision": 1,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {
+        "name": "New EntryLink",
+        "id": "194a-638f-f728-441f",
+        "hidden": false,
+        "targetId": "ce1a-a206-77fa-92d0",
+        "type": "selectionEntry",
+        "categoryLinks": [{"id": "194a-638f-f728-441f-a326-b7d7-a8a0-c0a7", "primary": true, "targetId": "a326-b7d7-a8a0-c0a7"}]
+      }
+    ]
+  }
+}
